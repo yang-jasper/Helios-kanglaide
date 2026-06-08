@@ -5,7 +5,7 @@ try:
 
     client = OpenAI(
         # 若没有配置环境变量，请用阿里云百炼API Key将下行替换为: api_key="sk-xxx",
-        api_key="sk-1f77a89183024c01aaa3750162d46abb",
+        api_key="我的key",
         # 以下为华北2（北京）地域的URL，各地域的URL不同。
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
     )
